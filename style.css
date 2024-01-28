@@ -66,6 +66,7 @@ body::before {
 
 button:disabled {
     background-color: gray;
+    
 }
 
 .container__texto {
