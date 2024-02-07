@@ -3,8 +3,8 @@ Projeto elaborado durante aulas de cursos da Alura.
 - Lógica de programação: mergulhe em programação com JavaScript.
 - Lógica de programação: explore funções e listas.
 
-### Link Prévia do projeto: [Clique Aqui](https://jogo-three-phi.vercel.app/)
-<img src="img/numero-secreto-jogo.png" title="HTML" width="900" height="500" />
+### Link Prévia do projeto:
+[<img loading="lazy" src="img/numero-secreto-jogo.png" width=700 height=400><br><sub></sub>](https://jogo-three-phi.vercel.app/) <img src="https://media0.giphy.com/media/MCmgzoIYmFSheDVrte/giphy.gif?cid=790b7611c04jf022tnqwpi05jkspv1t88rygyqwd3aebkazj&ep=v1_gifs_search&rid=giphy.gif&ct=s" heigth=40 width=40>
 
 ### Tecnologias
 <div>
